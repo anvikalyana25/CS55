@@ -1,0 +1,9 @@
+2025-05-25 19:09:13 | USER_REGISTERED | admin | {"role_assigned": "admin", "keys_generated": true}
+2025-05-25 19:09:13 | USER_REGISTERED | sender | {"role_assigned": "sender", "keys_generated": true}
+2025-05-25 19:09:13 | USER_REGISTERED | recipient | {"role_assigned": "recipient", "keys_generated": true}
+2025-05-25 19:09:13 | USER_REGISTERED | moderator | {"role_assigned": "moderator", "keys_generated": true}
+2025-05-25 19:09:13 | TOKEN_ISSUED | admin | {"tokens_active": 1}
+2025-05-25 19:09:13 | MESSAGE_SENT | sender | {"recipient_role": "recipient", "encrypted": true}
+2025-05-25 19:09:13 | MESSAGE_FLAGGED | recipient | {"flagged_messages_total": 1}
+2025-05-25 19:09:13 | TOKEN_FROZEN | moderator | {"action": "token_frozen", "reason": "abuse_prevention"}
+2025-05-25 19:09:14 | TOKEN_ISSUED | admin | {"tokens_active": 1}
